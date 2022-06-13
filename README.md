@@ -14,7 +14,7 @@ Website developed to DIO's Bootcamp TQI Fullstack developer. It is the client of
 
 ### Server
 
-Go to this repository: https://github.com/celso-henrique/naruto-quotes-client and follow the instructions to run it.
+Go to this repository: https://github.com/celso-henrique/naruto-quotes-server and follow the instructions to run it.
 
 ### Install
 
