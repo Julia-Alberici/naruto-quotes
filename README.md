@@ -44,3 +44,4 @@ Run the application with npm start command, it will start the app on localhost:3
 - `Mocks`
 - `Unity tests`
 - `Styled Components`
+- `Hooks`
